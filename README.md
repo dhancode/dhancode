@@ -1,42 +1,40 @@
-# 📊 Data Analyst Portfolio
+# 🧠 Data Science Portfolio
 
-Welcome to my **Data Analyst Portfolio** repository!  
-This repo is a collection of my personal and professional data projects, where I explore real-world datasets to generate insights, build dashboards, and apply data-driven problem-solving.
+Welcome to my **Data Science Portfolio**!  
+This repository is a curated collection of projects that demonstrate my skills in data analysis, machine learning, data visualization, and end-to-end problem-solving using real-world datasets.
 
 ## 👨‍💻 About Me
 
-I'm an aspiring Data Analyst with a passion for uncovering stories hidden in data. My work focuses on combining analytical thinking with tools like Python, SQL, and Excel to drive insights and decision-making.
+I'm an aspiring Data Scientist with a passion for extracting insights from data and building intelligent systems. My work blends statistics, programming, and domain knowledge to solve meaningful problems.
 
-## 🧰 Tools & Technologies
+## 🚀 Technologies & Tools
 
-- 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
-- 🧮 SQL (MySQL / PostgreSQL)
-- 📊 Excel / Google Sheets
-- 📈 Power BI / Tableau (optional, if you use)
-- 📂 Jupyter Notebooks
+- 🐍 **Python** (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
+- 📊 **Data Visualization** (Matplotlib, Seaborn, Plotly)
+- 🧠 **Machine Learning** (Scikit-learn, XGBoost, TensorFlow/Keras)
+- 💾 **Data Wrangling** (Pandas, SQL)
+- 🧮 **Math & Statistics** (Regression, Classification, Clustering, Probability, Hypothesis Testing)
+- 📈 **Notebooks** (Jupyter, Google Colab)
 
 ## 📁 Project Highlights
 
-| Project Name | Description | Tools |
-|--------------|-------------|-------|
-| `Sales Analysis` | Analyzed sales data to identify high-performing regions, trends, and KPIs. | Python, Pandas, Matplotlib |
-| `Customer Churn Prediction` | Built a logistic regression model to predict customer churn. | Python, Scikit-learn |
-| `COVID-19 Dashboard` | Interactive dashboard showing COVID trends globally. | Excel, Power BI |
-| `SQL Queries for E-commerce` | Extracted insights from an e-commerce database using complex SQL queries. | SQL |
+| Project Name | Description | Tools Used |
+|--------------|-------------|------------|
+| `Titanic Survival Prediction` | Built a logistic regression model to predict survival based on passenger data. | Python, Pandas, Scikit-learn |
+| `Movie Recommendation System` | Created a content-based recommendation engine using cosine similarity. | Python, NLP, Scikit-learn |
+| `Customer Segmentation` | Applied K-means clustering to segment customers by behavior. | Python, Pandas, Matplotlib |
+| `EDA on COVID-19 Dataset` | Analyzed trends and visualized the spread of COVID-19. | Python, Seaborn, Plotly |
+| `House Price Prediction` | Built a regression model to predict housing prices using feature engineering. | Python, Scikit-learn, XGBoost |
 
 ## 📌 Goals of This Repository
 
-- Practice and demonstrate real-world data analysis
-- Build a portfolio for job applications and networking
-- Learn and improve data storytelling and visualization
+- Showcase end-to-end Data Science project work
+- Demonstrate knowledge in data preprocessing, model building, and evaluation
+- Share reproducible and well-documented code for others to learn from
+- Build a portfolio for job applications and interviews
 
-## 🚀 Getting Started
+## 📦 How to Use
 
-You can view the code and notebooks in each project folder.  
-To run Python notebooks:
-1. Clone this repo
-2. Open a Jupyter Notebook or VS Code
-3. Install dependencies listed in each project (if any)
-
+1. Clone the repo:
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/yourusername/datascience-portfolio.git
