@@ -1,118 +1,301 @@
-<h1 align="center">Hi 👋, I'm Dhanush Santhosh Kumar</h1>
-<h3 align="center">An Aspiring Backend Developer from India 🇮🇳</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Backend Developer Portfolio</title>
 
-<img align="right" alt="backend-coding" width="400"
-src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<style>
+    :root {
+        --bg-color: #0d1117;
+        --card-color: #161b22;
+        --text-color: #c9d1d9;
+        --heading-color: #58a6ff;
+        --border-color: #30363d;
+        --accent-color: #1f6feb;
+        --code-bg: #161b22;
+    }
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dhancode
-&label=Profile%20views&color=0e75b6&style=flat"
-       alt="profile-views" />
-</p>
+    body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background-color: var(--bg-color);
+        color: var(--text-color);
+        max-width: 960px;
+        margin: auto;
+        padding: 24px;
+        line-height: 1.7;
+    }
 
----
+    h1, h2, h3 {
+        color: var(--heading-color);
+    }
 
-### 👨‍💻 About Me
+    h1 {
+        border-bottom: 2px solid var(--border-color);
+        padding-bottom: 10px;
+    }
 
-- 🔭 I’m currently focusing on **Backend Development**
-- 🌱 Learning and building projects using **Python, Django, Django REST Framework**
-- 🧠 Interested in **APIs, Databases, Authentication & System Design**
-- 👨‍💻 All my backend projects are available on **GitHub**
-- 💬 Ask me about **Backend APIs, Django, Databases, Git**
-- 📫 Reach me at: **your-email@example.com**
-- ⚡ Fun fact: I enjoy designing clean APIs and solving backend logic problems
+    hr {
+        border: none;
+        height: 1px;
+        background: var(--border-color);
+        margin: 32px 0;
+    }
 
----
+    a {
+        color: var(--accent-color);
+        text-decoration: none;
+    }
 
-### 🧩 Backend Skills & Technologies
+    a:hover {
+        text-decoration: underline;
+    }
 
-#### 🖥️ Backend & APIs
-- Python
-- Django
-- Django REST Framework (DRF)
-- RESTful API Design
+    ul {
+        padding-left: 20px;
+    }
 
-#### 🗄️ Databases
-- SQLite (Development)
-- PostgreSQL / MySQL (Basics)
-- Django ORM
+    pre, code {
+        background-color: var(--code-bg);
+        color: #e6edf3;
+        border-radius: 6px;
+        font-family: Consolas, monospace;
+    }
 
-#### 🔐 Authentication & Security
-- JWT Authentication
-- Session-based Auth
-- Role-based permissions
+    pre {
+        padding: 16px;
+        overflow-x: auto;
+        border: 1px solid var(--border-color);
+    }
 
-#### 🛠️ Tools
-- Git & GitHub
-- Virtual Environments
-- Postman
-- Linux (Basics)
+    code {
+        padding: 3px 6px;
+    }
 
----
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 16px;
+        background-color: var(--card-color);
+        border-radius: 8px;
+        overflow: hidden;
+    }
 
-### 📂 Featured Backend Projects
+    th, td {
+        padding: 12px;
+        border-bottom: 1px solid var(--border-color);
+        text-align: left;
+    }
 
-| Project | Description |
-|-------|------------|
-| **Todo API** | REST API with CRUD operations and authentication |
-| **User Auth System** | Login, registration, JWT-based authentication |
-| **Blog Backend** | Users, posts, comments, permissions |
-| **Role-Based API** | Admin/User access control |
+    th {
+        background-color: #21262d;
+        color: #e6edf3;
+    }
 
-> Each project follows a clean structure, proper validation, and REST best practices.
+    tr:hover {
+        background-color: #1c2128;
+    }
 
----
+    .badge {
+        background-color: var(--accent-color);
+        color: white;
+        padding: 4px 8px;
+        border-radius: 6px;
+        font-size: 12px;
+    }
 
-### 🔗 Connect With Me
+    .section {
+        background-color: var(--card-color);
+        padding: 20px;
+        border-radius: 10px;
+        margin-bottom: 24px;
+        border: 1px solid var(--border-color);
+    }
 
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-       alt="linkedin" height="30" width="40" />
-</a>
+    footer {
+        text-align: center;
+        font-size: 14px;
+        color: #8b949e;
+        margin-top: 40px;
+    }
+</style>
+</head>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-       alt="github" height="30" width="40" />
-</a>
-</p>
+<body>
 
----
+<h1>🧠 Backend Developer Portfolio</h1>
 
-### 🧰 Languages & Tools
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-       alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
-       alt="django" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-       alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-       alt="postgresql" width="40" height="40"/>
-</a>
-</p>
-
----
-
+<div class="section">
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhancode
-&show_icons=true&locale=en&layout=compact"
-alt="top-langs" />
+Welcome to my <strong>Backend Developer Portfolio</strong> 🚀<br>
+I build <strong>secure, scalable, and maintainable backend systems</strong> with
+a focus on <strong>APIs, databases, and authentication</strong>.
+</p>
+</div>
+
+<div class="section">
+<h2>👋 About Me</h2>
+<p>
+I’m an <strong>aspiring Backend Developer</strong> passionate about
+<strong>server-side development and system design</strong>.
 </p>
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhancode
-&show_icons=true&locale=en"
-alt="github-stats" />
+<ul>
+    <li>Designing clean REST APIs</li>
+    <li>Working with relational databases</li>
+    <li>Implementing authentication & authorization</li>
+    <li>Writing scalable backend logic</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>🛠️ Tech Stack</h2>
+
+<h3>Backend & APIs</h3>
+<ul>
+    <li>🐍 Python – Django, Django REST Framework</li>
+    <li>🌐 RESTful APIs – CRUD, pagination, auth</li>
+</ul>
+
+<h3>Databases</h3>
+<ul>
+    <li>🗄 PostgreSQL / MySQL</li>
+    <li>📦 SQLite (development)</li>
+    <li>🔍 Django ORM</li>
+</ul>
+
+<h3>Authentication & Security</h3>
+<ul>
+    <li>🔐 JWT & session-based authentication</li>
+    <li>🧾 Role-based access control (RBAC)</li>
+</ul>
+
+<h3>Tools & DevOps (Basics)</h3>
+<ul>
+    <li>🐙 Git & GitHub</li>
+    <li>🐳 Docker (Basics)</li>
+    <li>☁️ Deployment: Render / Railway / AWS</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>📂 Standard Project Structure</h2>
+
+<pre>
+project-name/
+│── app/
+│   ├── models.py
+│   ├── views.py
+│   ├── serializers.py
+│   ├── urls.py
+│── config/
+│── requirements.txt
+│── README.md
+│── .env.example
+</pre>
+
+<p>This structure ensures <strong>clean architecture and scalability</strong>.</p>
+</div>
+
+<div class="section">
+<h2>⭐ Featured Projects</h2>
+
+<table>
+<tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Core Concepts</th>
+</tr>
+<tr>
+    <td><strong>Todo API</strong></td>
+    <td>REST API with authentication and CRUD operations</td>
+    <td>APIs, Auth</td>
+</tr>
+<tr>
+    <td><strong>User Auth System</strong></td>
+    <td>JWT login, registration, password hashing</td>
+    <td>Security</td>
+</tr>
+<tr>
+    <td><strong>Blog Backend</strong></td>
+    <td>Users, posts, comments, likes</td>
+    <td>Relational DB</td>
+</tr>
+<tr>
+    <td><strong>E-commerce Backend</strong></td>
+    <td>Products, orders, cart, mock payment</td>
+    <td>Business Logic</td>
+</tr>
+<tr>
+    <td><strong>RBAC API</strong></td>
+    <td>Admin/User permissions & protected routes</td>
+    <td>Authorization</td>
+</tr>
+</table>
+</div>
+
+<div class="section">
+<h2>🔄 API Features</h2>
+<ul>
+    <li>CRUD operations</li>
+    <li>Pagination & filtering</li>
+    <li>Authentication & authorization</li>
+    <li>Input validation & error handling</li>
+    <li>REST best practices</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>▶️ Run Locally</h2>
+
+<pre>
+git clone https://github.com/yourusername/backend-portfolio.git
+</pre>
+<pre>
+python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+</pre>
+<pre>
+pip install -r requirements.txt
+</pre>
+<pre>
+python manage.py runserver
+</pre>
+</div>
+
+<div class="section">
+<h2>🎯 Goals</h2>
+<ul>
+    <li>Build production-ready backend systems</li>
+    <li>Prepare for backend interviews</li>
+    <li>Demonstrate system design thinking</li>
+    <li>Show clean backend architecture</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>🚀 Roadmap</h2>
+<ul>
+    <li>Advanced Django REST patterns</li>
+    <li>Redis caching</li>
+    <li>Celery background jobs</li>
+    <li>Swagger / OpenAPI docs</li>
+    <li>Production deployments</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>🤝 Connect With Me</h2>
+<p>
+📧 <a href="mailto:your-email@example.com">your-email@example.com</a><br>
+💼 LinkedIn: your-linkedin-url<br>
+🐙 GitHub: your-github-profile
 </p>
+</div>
+
+<footer>
+    Built with ❤️ for Backend Engineering
+</footer>
+
+</body>
+</html>
