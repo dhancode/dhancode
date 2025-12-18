@@ -1,40 +1,117 @@
-# 🧠 Data Science Portfolio
+<h1 align="center">Hi 👋, I'm Dhanush Santhosh Kumar</h1>
+<h3 align="center">An Aspiring Backend Developer from India 🇮🇳</h3>
 
-Welcome to my **Data Science Portfolio**!  
-This repository is a curated collection of projects that demonstrate my skills in data analysis, machine learning, data visualization, and end-to-end problem-solving using real-world datasets.
+<img align="right" alt="backend-coding" width="400"
+src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-## 👨‍💻 About Me
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat"
+       alt="profile-views" />
+</p>
 
-I'm an aspiring Data Scientist with a passion for extracting insights from data and building intelligent systems. My work blends statistics, programming, and domain knowledge to solve meaningful problems.
+---
 
-## 🚀 Technologies & Tools
+### 👨‍💻 About Me
 
-- 🐍 **Python** (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
-- 📊 **Data Visualization** (Matplotlib, Seaborn, Plotly)
-- 🧠 **Machine Learning** (Scikit-learn, XGBoost, TensorFlow/Keras)
-- 💾 **Data Wrangling** (Pandas, SQL)
-- 🧮 **Math & Statistics** (Regression, Classification, Clustering, Probability, Hypothesis Testing)
-- 📈 **Notebooks** (Jupyter, Google Colab)
+- 🔭 I’m currently focusing on **Backend Development**
+- 🌱 Learning and building projects using **Python, Django, Django REST Framework**
+- 🧠 Interested in **APIs, Databases, Authentication & System Design**
+- 👨‍💻 All my backend projects are available on **GitHub**
+- 💬 Ask me about **Backend APIs, Django, Databases, Git**
+- 📫 Reach me at: **your-email@example.com**
+- ⚡ Fun fact: I enjoy designing clean APIs and solving backend logic problems
 
-## 📁 Project Highlights
+---
 
-| Project Name | Description | Tools Used |
-|--------------|-------------|------------|
-| `Titanic Survival Prediction` | Built a logistic regression model to predict survival based on passenger data. | Python, Pandas, Scikit-learn |
-| `Movie Recommendation System` | Created a content-based recommendation engine using cosine similarity. | Python, NLP, Scikit-learn |
-| `Customer Segmentation` | Applied K-means clustering to segment customers by behavior. | Python, Pandas, Matplotlib |
-| `EDA on COVID-19 Dataset` | Analyzed trends and visualized the spread of COVID-19. | Python, Seaborn, Plotly |
-| `House Price Prediction` | Built a regression model to predict housing prices using feature engineering. | Python, Scikit-learn, XGBoost |
+### 🧩 Backend Skills & Technologies
 
-## 📌 Goals of This Repository
+#### 🖥️ Backend & APIs
+- Python
+- Django
+- Django REST Framework (DRF)
+- RESTful API Design
 
-- Showcase end-to-end Data Science project work
-- Demonstrate knowledge in data preprocessing, model building, and evaluation
-- Share reproducible and well-documented code for others to learn from
-- Build a portfolio for job applications and interviews
+#### 🗄️ Databases
+- SQLite (Development)
+- PostgreSQL / MySQL (Basics)
+- Django ORM
 
-## 📦 How to Use
+#### 🔐 Authentication & Security
+- JWT Authentication
+- Session-based Auth
+- Role-based permissions
 
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/datascience-portfolio.git
+#### 🛠️ Tools
+- Git & GitHub
+- Virtual Environments
+- Postman
+- Linux (Basics)
+
+---
+
+### 📂 Featured Backend Projects
+
+| Project | Description |
+|-------|------------|
+| **Todo API** | REST API with CRUD operations and authentication |
+| **User Auth System** | Login, registration, JWT-based authentication |
+| **Blog Backend** | Users, posts, comments, permissions |
+| **Role-Based API** | Admin/User access control |
+
+> Each project follows clean structure, proper validation, and REST best practices.
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+       alt="github" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+       alt="python" width="40" height="40"/>
+</a>
+
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
+       alt="django" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+       alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+       alt="postgresql" width="40" height="40"/>
+</a>
+</p>
+
+---
+
+<p>
+<img align="left"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact"
+alt="top-langs" />
+</p>
+
+<p>&nbsp;
+<img align="center"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en"
+alt="github-stats" />
+</p>
