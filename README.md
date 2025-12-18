@@ -5,7 +5,8 @@
 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat"
+  <img src="https://komarev.com/ghpvc/?username=dhancode
+&label=Profile%20views&color=0e75b6&style=flat"
        alt="profile-views" />
 </p>
 
@@ -58,7 +59,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 | **Blog Backend** | Users, posts, comments, permissions |
 | **Role-Based API** | Admin/User access control |
 
-> Each project follows clean structure, proper validation, and REST best practices.
+> Each project follows a clean structure, proper validation, and REST best practices.
 
 ---
 
@@ -105,13 +106,13 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 ---
 
 <p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact"
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhancode
+&show_icons=true&locale=en&layout=compact"
 alt="top-langs" />
 </p>
 
 <p>&nbsp;
-<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en"
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhancode
+&show_icons=true&locale=en"
 alt="github-stats" />
 </p>
