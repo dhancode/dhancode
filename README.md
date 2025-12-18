@@ -79,7 +79,7 @@ with a strong focus on <strong>APIs, databases, and authentication</strong>.
 ## 🤝 Connect With Me
 
 - 📧 Email: codeatdhan@gmail.com 
-- 💼 LinkedIn:[ your-linkedin-url  ](https://www.linkedin.com/in/dhan-code/)
+- 💼 LinkedIn:https://www.linkedin.com/in/dhan-code/
 - 🐙 GitHub: https://github.com/dhancode  
 
 ---
