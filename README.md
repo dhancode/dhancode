@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanush Santhosh Kumar</h1>
-<h3 align="center">An Aspiring Backend Developer from India 🇮🇳</h3>
+<h3 align="center">An Aspiring Backend Developer </h3>
 
 <p align="center">
 I build <strong>secure, scalable, and maintainable backend systems</strong><br/>
