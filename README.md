@@ -1,89 +1,67 @@
 <h1 align="center">Hi 👋, I'm Dhanush Santhosh Kumar</h1>
-<h3 align="center">An Aspiring Backend Developer </h3>
+<h3 align="center">Aspiring Backend Developer · Python · Django · REST APIs</h3>
 
 <p align="center">
-I build <strong>secure, scalable, and maintainable backend systems</strong><br/>
-with a strong focus on <strong>APIs, databases, and authentication</strong>.
+A fresher passionate about building <strong>secure, scalable, and maintainable backend systems</strong><br/>
+focused on <strong>REST APIs, databases, and authentication</strong>.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently focusing on **Backend Development**
-- 🌱 Learning **Python, Django, Django REST Framework**
-- 🧠 Interested in **System Design, Databases & API Architecture**
-- 👨‍💻 Building real-world backend projects on GitHub
-- 💬 Ask me about **Backend APIs, Django, SQL, Git**
-- ⚡ Fun fact: I enjoy solving backend logic & performance problems
+- 🎓 Fresh graduate actively building backend skills through projects and courses
+- 🔭 Focused on **Backend Development** with Python and Django
+- 🌱 Currently deepening expertise in **Django REST Framework, system design, and API architecture**
+- 🧠 Interested in **databases, authentication systems, and scalable backend patterns**
+- 💬 Ask me about **REST APIs, Django, PostgreSQL, JWT Auth, Git**
+- ⚡ I enjoy breaking down backend logic and solving performance problems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend & APIs
-- 🐍 Python  
-- Django, Django REST Framework  
-- RESTful APIs (CRUD, pagination, auth)
+**Languages & Frameworks**
+`Python` `Django` `Django REST Framework`
 
-### Databases
-- PostgreSQL / MySQL  
-- SQLite (development)  
-- Django ORM
+**Databases**
+`PostgreSQL` `MySQL` `SQLite` `Django ORM`
 
-### Authentication & Security
-- JWT Authentication  
-- Session-based Auth  
-- Role-Based Access Control (RBAC)
+**Authentication & Security**
+`JWT` `Session-based Auth`
 
-### Tools & DevOps (Basics)
-- Git & GitHub  
-- Docker (Basics)  
-- Linux (Basics)  
-- Postman  
+**Tools**
+`Git` `GitHub` `Postman` `Docker (basics)` `Linux (basics)`
 
 ---
 
-## 📂 Featured Backend Projects
+## 📂 Projects
 
-| Project | Description |
-|-------|------------|
-| **Todo API** | REST API with authentication and CRUD operations |
-| **User Auth System** | Login, registration, JWT-based authentication |
-| **Blog Backend** | Users, posts, comments, likes |
-| **RBAC API** | Admin/User permissions and protected routes |
+| Project | Tech | Description |
+|---|---|---|
+| **Todo API** | Django REST, JWT | REST API with authentication, CRUD operations, and pagination |
+| **Blog Backend** | Django REST | Users, posts, comments, and likes with protected routes |
+| **AI Agriculture Robot** | Python, YOLOv8, Firebase, ESP32 | Real-time plant disease detection with cloud logging and robot navigation |
 
-> Each project follows clean architecture and REST best practices.
-
----
-
-## 🎯 Goals
-
-- Build **production-ready backend applications**
-- Prepare for **backend developer interviews**
-- Write **clean, maintainable server-side code**
-- Learn **system design and scalability concepts**
+> All projects follow clean architecture and REST best practices.
 
 ---
 
-## 🚀 Roadmap
+## 🎯 Currently Working On
 
-- Advanced Django REST patterns  
-- Redis caching  
-- Celery background jobs  
-- Swagger / OpenAPI documentation  
-- Production deployment (AWS / Render)
+- 📚 **Meta Backend Developer Professional Certificate** — working through the full course on Coursera
+- 🧩 **Improving DSA skills** — solving problems daily to strengthen problem-solving fundamentals
+- 🔧 Learning **Redis caching and Celery** for background job processing
+- 📄 Exploring **Swagger / OpenAPI** for API documentation best practices
 
 ---
 
 ## 🤝 Connect With Me
 
-- 📧 Email: codeatdhan@gmail.com 
-- 💼 LinkedIn:https://www.linkedin.com/in/dhan-code/
-- 🐙 GitHub: https://github.com/dhancode  
+- 📧 [codeatdhan@gmail.com](mailto:dhanush32130@gmail.com)
+- 💼 [linkedin.com/in/dhan-code](https://www.linkedin.com/in/dhan-code/)
+- 🐙 [github.com/dhancode](https://github.com/dhancode)
 
 ---
 
-<p align="center">
-⭐ If you like my work, consider giving a star to my repositories!
-</p>
+<p align="center">⭐ If you find my work useful, a star on the repo means a lot!</p>
