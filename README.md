@@ -58,7 +58,7 @@ focused on <strong>REST APIs, databases, and authentication</strong>.
 
 ## 🤝 Connect With Me
 
-- 📧 [codeatdhan@gmail.com](mailto:dhanush32130@gmail.com)
+- 📧 [dhanush32130@gmail.com](mailto:dhanush32130@gmail.com)
 - 💼 [linkedin.com/in/dhan-code](https://www.linkedin.com/in/dhan-code/)
 - 🐙 [github.com/dhancode](https://github.com/dhancode)
 
