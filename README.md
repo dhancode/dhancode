@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhanush Santhosh Kumar</h1>
+<h1 align="center">Dhanush Santhosh Kumar</h1>
 <h3 align="center">Aspiring Backend Developer · Python · Django · REST APIs</h3>
 
 <p align="center">
